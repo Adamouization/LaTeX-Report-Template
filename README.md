@@ -2,7 +2,7 @@
 
 A LaTeX template to get started with a report.
 
-A example of the compiled PDF can be found [here](https://github.com/Adamouization/LaTeX-Report-Template/blob/master/Adam_Jaamour_Template.pdf)
+A example of the compiled PDF can be found [here](https://github.com/Adamouization/LaTeX-Report-Template/blob/master/Adam_Jaamour_Template.pdf).
 
 ## License 
 * see [LICENSE](https://github.com/Adamouization/LaTeX-Report-Template/blob/master/LICENSE) file.
